@@ -157,9 +157,6 @@ Revenue and orders show consistent upward growth over time
 
 Certain products drive high revenue but also higher returns
 
-**SNAPSHOTS**
-
-
 A small group of customers contributes significant revenue share
 
 Skilled manual and mid-income customer groups generate higher order volume
@@ -167,3 +164,11 @@ Skilled manual and mid-income customer groups generate higher order volume
 Regional analysis highlights strong performance in North America and Europe
 
 Target comparison helps identify underperforming periods early
+
+**SNAPSHOTS**
+
+**Executive Dashboard** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Executive%20dashboard.jpg
+**Customer dashboard** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Customer%20Detail%20Dashboard.jpg
+**Map** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Map.jpg
+**Product Dashboard** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Product%20Dashboard.jpg
+
