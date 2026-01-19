@@ -168,7 +168,10 @@ Target comparison helps identify underperforming periods early
 **SNAPSHOTS**
 
 **Executive Dashboard** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Executive%20dashboard.jpg
+
 **Customer dashboard** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Customer%20Detail%20Dashboard.jpg
+
 **Map** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Map.jpg
+
 **Product Dashboard** - https://github.com/jitenderkapoor38/Global-Retail-Performance-Customer-Analytics-Dashboard-Power-BI-/blob/main/Product%20Dashboard.jpg
 
